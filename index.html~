@@ -15,7 +15,7 @@
 <body>
 
 <div class="column">
-  <div id="pinacolada"><script>include("recipes/pinacolada.md", "pinacolada")</script></div>
+  <div id="toast"><script>include("recipes/chocolate_toasted.md", "toast")</script></div>
 </div>
 
 </body>
