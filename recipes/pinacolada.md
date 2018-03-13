@@ -15,6 +15,6 @@ You don’t NEED to be on vacation on some warm tropical beach to enjoy this. Ha
 - 3 tablespoons half and half
 - 1/2 cup white rum
 
-###Preparation
+### Preparation
 
 1. Put all ingredients in a blender, and blend until smooth. Pour into glasses and enjoy!
